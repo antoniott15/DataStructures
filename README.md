@@ -30,7 +30,11 @@
   - KRUSKAL
   - BellmanFord
   
-  
+For run goes to the directory wanted and 
+```
+g++ -std=c++17 main.cp
+```
+
 # Authors
   - Antonio Toche
  
